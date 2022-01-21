@@ -6,7 +6,7 @@
  
  🌱 I’m currently working on IEEE UofT student branch as webmaster, contributing to both backend and frontend development.
  
- 👯 I’m into software development and looking forward to making acceessbility software that could help minor group people in our society.
+ 👯 I’m into software development and hoping to design acceessbility software that could help minor group people in our society.
  
  🤠 I'm innovative and creative, like to come up with new ideas and make it come ture by using software.
  
