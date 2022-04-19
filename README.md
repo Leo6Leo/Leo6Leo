@@ -14,7 +14,7 @@ Website: http://leo6leo.cool
 
 LinkedIn:https://www.linkedin.com/in/haocheng-leo/
 
-🍀 I'm currently seeking for 2022 summer internship job, feel free to reach out;)
+🍀 I'm currently seeking for 2023 14-16 months internship job, feel free to reach out;)
 
 <!--
 **Leo6Leo/Leo6Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
