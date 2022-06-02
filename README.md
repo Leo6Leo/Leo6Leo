@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 My name is Leo Li, currently a second year computer engineering student at University of Toronto with Artificial Intelligence Minor and Robotic Minor.
+ 🔭 My name is Leo Li, currently an incoming third year computer engineering student at University of Toronto with Artificial Intelligence Minor and Robotic Minor.
 
 🌱 I’m currently working on IEEE UofT student branch as webmaster, contributing to both backend and frontend development.
 
