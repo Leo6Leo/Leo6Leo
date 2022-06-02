@@ -1,12 +1,12 @@
 ### Hi there 👋
 
- 🔭 My name is Leo Li, currently an incoming third year computer engineering student at University of Toronto with Artificial Intelligence Minor and Robotic Minor.
+ 🔭 My name is Leo Li, currently an incoming third-year computer engineering student at the University of Toronto with an Artificial Intelligence Minor and Robotic Minor.
 
-🌱 I’m currently working on IEEE UofT student branch as webmaster, contributing to both backend and frontend development.
+🌱 I’m currently working on the IEEE UofT student branch as the director of the Webmaster team, leading a team of 10 to contribute to both backend and frontend development.
 
 👯 I’m into software development and hoping to design accessibility software that could help minor groups of people in our society.
 
-🤠 I'm innovative and creative like to come up with new ideas and make them come true by using the software.
+🤠 I'm innovative and creative. I like to come up with new ideas and make them come true by using the software.
 
 📫 Feel free to reach out to me and I will get back to you as soon as I can!
 
