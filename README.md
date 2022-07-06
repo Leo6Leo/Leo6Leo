@@ -17,6 +17,12 @@ LinkedIn:https://www.linkedin.com/in/haocheng-leo/
 🍀 I'm currently seeking for 2023 14-16 months internship job, feel free to reach out;)
 
 ![](https://komarev.com/ghpvc/?username=Leo6Leo&color=green&style=for-the-badge)
+
+<!--
+<a href="https://github.com/Leo6Leo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leo6Leo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Leo's GitHub Stats" />
+  --!>
+</a>
 <!--
 **Leo6Leo/Leo6Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
