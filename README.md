@@ -4,7 +4,7 @@
 
 🌱 I’m currently working on the IEEE UofT student branch as the director of the Webmaster team, leading a team of 10 to contribute to both backend and frontend development.
 
-👯 I’m into software development and hoping to design accessibility software that could help minor groups of people in our society.
+👯 I’m into software development and hoping to design useful software that could help the community and the minor groups of people in our society.
 
 🤠 I'm innovative and creative. I like to come up with new ideas and make them come true by using the software.
 
