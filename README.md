@@ -1,20 +1,23 @@
-### Hi there 👋
+### Hey there 👋
 
- 🔭 My name is Leo Li, currently an incoming third-year computer engineering student at the University of Toronto with an Artificial Intelligence Minor.
+🍀 I'm currently seeking for 2023 12 months or 4 months internship job, feel free to reach out;)
 
-🌱 I’m currently working on the IEEE UofT student branch as the director of the Webmaster team, leading a team of 10 to contribute to both backend and frontend development.
+☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence Minor.
 
-👯 I’m into software development and hoping to design useful software that could help the community and the minor groups of people in our society.
+🌱 I’m currently working on IEEE UofT student branch as webmaster director, leading a team of 10 to work on open-source projects.
 
-🤠 I'm innovative and creative. I like to come up with new ideas and make them come true by using the software.
+👯 I’m into software development, and skillful in React.js, Redux, Django, Flask, REST, and Electron, and I am learning DevOps with AWS right now!
+
+🤠 I'm coding to build tools for people in need, and making changes to the community around me.
+
+💻 I have joined many hackathons: S:\HA<KS 2022 (won 2nd place), Hach The North, NewHacks, MakeUofT, UofTHacks. Check out my cool projects in my website below!
 
 📫 Feel free to reach out to me and I will get back to you as soon as I can!
 
-Website: http://leo6leo.cool
+Project Website: http://me.leo6leo.cool
 
-LinkedIn:https://www.linkedin.com/in/haocheng-leo/
+Github: https://github.com/Leo6Leo
 
-🍀 I'm currently seeking for 2023 14-16 months internship job, feel free to reach out;)
 
 ![](https://komarev.com/ghpvc/?username=Leo6Leo&color=green&style=for-the-badge)
 
