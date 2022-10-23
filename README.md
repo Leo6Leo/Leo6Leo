@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-🍀 I'm currently seeking for 2023 12 months or 4 months internship job, feel free to reach out;)
+🍀 I'm currently seeking for 2023 16, 12 months or 4 months internship job, feel free to reach out;)
 
 ☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence Minor.
 
