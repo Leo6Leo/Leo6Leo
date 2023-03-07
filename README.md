@@ -1,10 +1,10 @@
 ### Hey there 👋
 
-🍀 I'm currently seeking for 2023 16, 12 months or 4 months internship job, feel free to reach out;)
+🍀 I'm currently seeking for part time opportunities from May 2023 to August 2024, feel free to reach out!
 
-☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence Minor.
+☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence and BioEngineering Minor.
 
-🌱 I’m currently working on IEEE UofT student branch as webmaster director, leading a team of 10 to work on open-source projects.
+🌱 I’m currently working on IEEE UofT student branch as software director, leading a team of 10 to work on open-source projects.
 
 👯 I’m into software development, and skillful in React.js, Redux, Django, Flask, REST, and Electron, and I am learning DevOps with AWS right now!
 
