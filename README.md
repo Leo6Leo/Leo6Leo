@@ -1,6 +1,5 @@
 ### Hey there 👋
 
-🍀 I'm currently seeking for part time opportunities from May 2023 to August 2024, feel free to reach out!
 
 ☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence and BioEngineering Minor.
 
