@@ -3,7 +3,7 @@
 
 ☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence and BioEngineering Minor.
 
-🌱 I’m currently working on IEEE UofT student branch as software director, leading a team of 10 to work on open-source projects.
+🌱 I’m currently working on IEEE UofT student branch as branch chair, and working on Kubernetes, Knative and Openshift-serverless as Software Intern at Red Hat Inc.
 
 👯 I’m into software development, and skillful in React.js, Redux, Django, Flask, REST, and Electron, and I am learning DevOps with AWS right now!
 
