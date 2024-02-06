@@ -1,5 +1,6 @@
-### Hey there 👋
+# Hey there 👋
 
+# I code to make my design come true.
 
 ☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence and BioEngineering Minor.
 
