@@ -10,7 +10,7 @@
 
 🤠 **Simple can be harder than complex**: I love to make complicated things become easy
 
-💻 I have joined many hackathons: S:\HA<KS 2022 (won 2nd place), Hach The North, NewHacks, MakeUofT, UofTHacks. Check out my cool projects in my website below!
+ Apple [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) Winner 2024
 
 📫 Feel free to reach out to me and I will get back to you as soon as I can!
 
