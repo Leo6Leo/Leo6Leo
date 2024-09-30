@@ -2,17 +2,17 @@
 
 # I code to make my design come true.
 
-☀️ My name is Leo Li, currently a third-year computer engineering student at the University of Toronto with Artificial Intelligence and BioEngineering Minor.
+☀️ My name is Leo Li, currently a final computer engineering student at the University of Toronto. 
 
-🌱 I’m currently working on IEEE UofT student branch as branch chair, and working on Kubernetes, Knative and Openshift-serverless as Software Engineering Intern at Red Hat Inc.
+🌱 I’m an Ex-Software Engineering Intern at Red Hat, working on Openshift Serverless. And I am Knative Eventing Maintainer + Knative UX WG tech lead.
 
-👯 I’m into software development, and skillful in React.js, Redux, Django, Flask, REST, and Electron, and I am learning DevOps with AWS right now!
+👯 I’m into software development, and skillful in full-stack development, mobile development and cloud native ecosystem.
 
 🤠 **Simple can be harder than complex**: I love to make complicated things become easy
 
  Apple [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) Winner 2024
 
-📫 Feel free to reach out to me and I will get back to you as soon as I can!
+📫 Feel free to reach out to me on LinkedIn and I will get back to you as soon as I can!
 
 Project Website: http://me.leo6leo.cool
 
