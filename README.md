@@ -2,11 +2,10 @@
 
 # I code to make my ideas come true.
 
-☀️ My name is Leo. I graduated from the University of Toronto’s Faculty of Applied Science and Engineering.
+☀️ My name is Leo, and I'm a Software Enginner at [Red Hat Inc.](https://www.redhat.com/en) under [Openshift Engineering](https://www.redhat.com/en/technologies/cloud-computing/openshift).
 
 🌱 I was a Software Engineering Intern at Red Hat, where I worked on OpenShift Serverless. I also served as a Knative Eventing Maintainer and UX Working Group Tech Lead.
 
-👯 I’m into software development, and skillful in full-stack development, mobile development and cloud native ecosystem.
 
 🤠 **Simple can be harder than complex**: I love to make complicated things become easy
 
